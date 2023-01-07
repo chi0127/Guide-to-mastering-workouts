@@ -1,5 +1,4 @@
 # Guide-to-mastering-workouts----movement-position-correction-and-calorie-consumption-calculation
-<font face="Consolas">python</font>
 ## 使用步驟
 * 函式庫與軟體套件
   * conda 4.14.0
