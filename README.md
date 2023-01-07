@@ -21,6 +21,8 @@
     pip install mediapipe
     pip install tk
     ```
+* 程式執行
+  * ttk_interface_1127_DB_copy_wrongPoseNotCount.py
 
 ## 登入畫面
 ![GITHUB]( https://drive.google.com/uc?export=view&id=1oDKRy5tWeqZQyBDbRS_S8BYNoMJJjG8B "test")
