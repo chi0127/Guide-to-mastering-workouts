@@ -17,11 +17,8 @@
     pip install tk
     ```
   
-### 【登入畫面】
-![GITHUB]( https://drive.google.com/uc?export=view&id=1oDKRy5tWeqZQyBDbRS_S8BYNoMJJjG8B "test")
-### 【操作畫面】
-![GITHUB]( https://drive.google.com/uc?export=view&id=1TQIhx5wtNP0V_ykURpniz7VrJC8O4fxL "test")
-### 【功能列】
-![GITHUB]( https://drive.google.com/uc?export=view&id=1eFkUsdWS5nEnPpa2HlvYddTTK-qeq76K "test")
-![GITHUB]( https://drive.google.com/uc?export=view&id=1OKXwjGl43hfF8U6qyRCXi2OS-48_3P_E "test")
-![GITHUB]( https://drive.google.com/uc?export=view&id=1FwJ-Ooja1RHCmXqKDDFnxUTYLn8VjMxm "test")
+### 【功能總覽】
+- 影像偵測深蹲/臀橋/弓步蹲姿勢
+- 體感介面
+- 文字/語音糾正錯誤姿勢
+- 運動歷史報表
